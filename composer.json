@@ -23,10 +23,5 @@
         "psr-4": {
             "crawlerests\\": "tests/"
         }
-    },	
-    "config": {
-        "platform": {
-            "php": ">=7.0"
-        }  
-    }    
+    }
 }
